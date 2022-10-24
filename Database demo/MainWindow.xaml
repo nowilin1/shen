@@ -1,0 +1,24 @@
+﻿<Window x:Class="Database_demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Database_demo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="341*"/>
+            <RowDefinition Height="48*"/>
+        </Grid.RowDefinitions>
+        <Grid Background="RosyBrown">
+            <Label Content="Тур фирма" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="24" FontFamily="Comic Sans MS" Background="{x:Null}"/>
+            <Button x:Name="ButtonBack" Content="Назад" Margin="5" Background="#FFDEA788" HorizontalAlignment="Right" Width="62" Click="ButtonBack_Click" FontFamily="Comic Sans MS" FontSize="16"/>
+            <Button x:Name="Hotels" Content="Отели" Background="#FFDEA788" Margin="5" Click="Hotels_Click" HorizontalAlignment="Left" Width="82" FontSize="16" FontFamily="Comic Sans MS"/>
+        </Grid>
+        <Grid Background="LightCoral" Grid.Row="2"/>
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" ContentRendered="MainFrame_CR" Margin="0,45,0,0" Grid.RowSpan="2"/>
+
+    </Grid>
+</Window>

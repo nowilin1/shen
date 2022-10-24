@@ -1,0 +1,81 @@
+C:\Users\plusnin\source\repos\Database demo\Database demo\bin\Debug\Database demo.exe.config
+C:\Users\plusnin\source\repos\Database demo\Database demo\bin\Debug\Database demo.exe
+C:\Users\plusnin\source\repos\Database demo\Database demo\bin\Debug\Database demo.pdb
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database demo.csproj.AssemblyReference.cache
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\MainWindow.g.cs
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\App.g.cs
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database demo_MarkupCompile.cache
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database demo_MarkupCompile.lref
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\MainWindow.baml
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database demo.g.resources
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database_demo.Properties.Resources.resources
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database demo.csproj.GenerateResource.cache
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database demo.csproj.CoreCompileInputs.cache
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database demo.exe
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\Database demo.pdb
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\hotelPage.g.cs
+C:\Users\plusnin\source\repos\Database demo\Database demo\obj\Debug\hotelPage.baml
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\bin\Debug\Database demo.exe.config
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\bin\Debug\Database demo.exe
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\bin\Debug\Database demo.pdb
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo.csproj.AssemblyReference.cache
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo.csproj.SuggestedBindingRedirects.cache
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\hotelPage.g.cs
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\mainHotelPage.g.cs
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\MainWindow.g.cs
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\App.g.cs
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo_MarkupCompile.cache
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo_MarkupCompile.lref
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\hotelPage.baml
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\mainHotelPage.baml
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\MainWindow.baml
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo.g.resources
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database_demo.Properties.Resources.resources
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo.csproj.GenerateResource.cache
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo.csproj.CoreCompileInputs.cache
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo.exe
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo.pdb
+F:\Database demo\Database demo\bin\Debug\Database demo.exe.config
+F:\Database demo\Database demo\bin\Debug\Database demo.exe
+F:\Database demo\Database demo\bin\Debug\Database demo.pdb
+F:\Database demo\Database demo\bin\Debug\EntityFramework.dll
+F:\Database demo\Database demo\bin\Debug\EntityFramework.SqlServer.dll
+F:\Database demo\Database demo\bin\Debug\EntityFramework.xml
+F:\Database demo\Database demo\bin\Debug\EntityFramework.SqlServer.xml
+F:\Database demo\Database demo\bin\Debug\ru\EntityFramework.resources.dll
+F:\Database demo\Database demo\obj\Debug\Database demo.csproj.AssemblyReference.cache
+F:\Database demo\Database demo\obj\Debug\hotelPage.g.cs
+F:\Database demo\Database demo\obj\Debug\mainHotelPage.g.cs
+F:\Database demo\Database demo\obj\Debug\MainWindow.g.cs
+F:\Database demo\Database demo\obj\Debug\App.g.cs
+F:\Database demo\Database demo\obj\Debug\Database demo_Content.g.cs
+F:\Database demo\Database demo\obj\Debug\Database demo_MarkupCompile.cache
+F:\Database demo\Database demo\obj\Debug\Database demo_MarkupCompile.lref
+F:\Database demo\Database demo\obj\Debug\hotelPage.baml
+F:\Database demo\Database demo\obj\Debug\mainHotelPage.baml
+F:\Database demo\Database demo\obj\Debug\MainWindow.baml
+F:\Database demo\Database demo\obj\Debug\Database demo.g.resources
+F:\Database demo\Database demo\obj\Debug\Database_demo.Properties.Resources.resources
+F:\Database demo\Database demo\obj\Debug\Database demo.csproj.GenerateResource.cache
+F:\Database demo\Database demo\obj\Debug\Database demo.csproj.CoreCompileInputs.cache
+F:\Database demo\Database demo\obj\Debug\Database demo.csproj.CopyComplete
+F:\Database demo\Database demo\obj\Debug\Database demo.exe
+F:\Database demo\Database demo\obj\Debug\Database demo.pdb
+F:\Database demo\Database demo\obj\Debug\App.baml
+F:\Database demo\Database demo\obj\Debug\AddEditPage.g.cs
+F:\Database demo\Database demo\obj\Debug\AddEditPage.baml
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\AddEditPage.g.cs
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo_Content.g.cs
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\bin\Debug\EntityFramework.dll
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\bin\Debug\EntityFramework.SqlServer.dll
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\bin\Debug\EntityFramework.xml
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\bin\Debug\EntityFramework.SqlServer.xml
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\bin\Debug\ru\EntityFramework.resources.dll
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\App.baml
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\AddEditPage.baml
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\Database demo.csproj.CopyComplete
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\ToursPage.g.cs
+\\FSProfile1.biik.ad.biik.ru\Redirect\shengeliya\Desktop\Database demo\Database demo\obj\Debug\ToursPage.baml
+F:\Database demo\Database demo\obj\Debug\ToursPage.g.cs
+F:\Database demo\Database demo\obj\Debug\ToursPage.baml
